@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603923340133",
+    "project_id": "printapp-ba95b",
+    "storage_bucket": "printapp-ba95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603923340133:android:0d74f1e181633c80bb5f8c",
+        "android_client_info": {
+          "package_name": "com.example.printapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdroqu_ukWNHQGXH9sg8asTumtsnDJuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
